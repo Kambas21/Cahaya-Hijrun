@@ -42,12 +42,32 @@
 
 # 4. Kompatibilitas Perangkat Lunak :
 - Linux : Memiliki sejumlah besar perangkat lunak open-source, tetapi mungkin tidak mendukung beberapa aplikasi komersial populer.
+
+![WhatsApp Image 2024-10-04 at 09 10 07](https://github.com/user-attachments/assets/4c772122-37c7-46af-9ca3-8e4f2077f673)
+
+  
 - Windows : Memiliki dukungan luas untuk aplikasi komersial dan perangkat lunak populer, menjadikannya pilihan yang lebih baik bagi pengguna yang membutuhkan aplikasi tertentu.
+
+![Cuplikan layar 2024-10-04 091159](https://github.com/user-attachments/assets/5282790e-00f0-4579-ad7c-10408aabde95)
+
 
 # 5. Penggunaan dan Aksesibilitas :
 - Linux : Mungkin memerlukan pengetahuan teknis lebih untuk menginstal dan memelihara, meskipun distribusi modern semakin ramah pengguna.
+
+![Cuplikan layar 2024-10-04 091328](https://github.com/user-attachments/assets/b0399196-0c3e-4991-a02e-7dd2d55de3e8)
+
+
 - Windows : Dikenal karena antarmuka pengguna yang intuitif dan mudah dipahami, cocok untuk pengguna baru.
+
+![Cuplikan layar 2024-10-04 091452](https://github.com/user-attachments/assets/f563d9f1-c9a5-4fff-81b1-4637536469e6)
+
 
 # 6. Kinerja dan Stabilitas :
 - Linux : Dikenal karena stabilitas dan efisiensinya dalam menggunakan sumber daya sistem, sehingga sering dipilih untuk server dan aplikasi yang memerlukan uptime tinggi.
+
+![WhatsApp Image 2024-10-04 at 09 18 16](https://github.com/user-attachments/assets/6c0c5101-269d-498b-90c9-fdb1cc77795c)
+
+
 - Windows : Meskipun stabil, terkadang dapat mengalami penurunan kinerja seiring waktu jika tidak dirawat dengan baik.
+
+
