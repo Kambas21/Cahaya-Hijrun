@@ -1,12 +1,7 @@
 # Pengertian
 - Linux : Linux adalah sistem operasi berbasis Unix yang dirancang untuk memberikan pengguna PC OS gratis atau dengan biaya rendah. Sistem operasi ini terkenal karena stabilitas, keamanan, dan kenyamanannya, serta merupakan pilihan yang populer di kalangan pengembang dan server.
-- 
-![WhatsApp Image 2024-10-03 at 20 16 41](https://github.com/user-attachments/assets/c9bad6ae-7eb0-4ddd-a9e6-6c836c857155)
-
 
 - Windows : Windows adalah sistem operasi yang dikembangkan oleh Microsoft. Versi pertama, Windows 1.0, dirilis pada tahun 1985. Windows dikenal luas karena kemudahan penggunaan dan antarmuka grafis yang ramah pengguna, menjadikannya pilihan utama bagi pengguna PC di seluruh dunia.
-- 
-![Cuplikan layar 2024-10-03 195831](https://github.com/user-attachments/assets/c9498857-5518-412e-8423-d66b9c7eb19c)
 
 
 
@@ -15,7 +10,14 @@
 
 # 1. Lisensi dan Biaya :
 - Linux : Umumnya bersifat open-source dan gratis, sehingga pengguna dapat mengunduh, menggunakan, dan memodifikasi tanpa biaya.
+
+![WhatsApp Image 2024-10-03 at 20 16 41](https://github.com/user-attachments/assets/a3b5aa84-e8ab-4c53-8b59-e4886dad9411)
+
+
 - Windows : Merupakan perangkat lunak berbayar, dan pengguna harus membeli lisensi untuk menggunakannya.
+
+![Cuplikan layar 2024-10-04 085349](https://github.com/user-attachments/assets/31d98334-6ca1-4a57-af31-962809800af5)
+
 
 # 2. Kustomisasi :
 - Linux : Sangat dapat dikustomisasi, memungkinkan pengguna untuk mengubah hampir semua aspek sistem operasi sesuai kebutuhan.
