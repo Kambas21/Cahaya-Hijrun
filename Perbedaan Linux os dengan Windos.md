@@ -21,11 +21,24 @@
 
 # 2. Kustomisasi :
 - Linux : Sangat dapat dikustomisasi, memungkinkan pengguna untuk mengubah hampir semua aspek sistem operasi sesuai kebutuhan.
+
+![Cuplikan layar 2024-10-04 090652](https://github.com/user-attachments/assets/2bdafcb7-2883-4255-8394-46506e698ce3)
+
 - Windows : Meskipun ada beberapa opsi kustomisasi, Windows lebih terbatas dibandingkan dengan Linux.
+
+![Cuplikan layar 2024-10-04 085349](https://github.com/user-attachments/assets/3a3d4a8b-a1a7-48f5-a7f2-920936662205)
+
 
 # 3. Keamanan :
 - Linux : Secara umum lebih dianggap aman, dengan lebih sedikit malware yang ditujukan untuk sistem operasi ini. Pengguna memiliki kontrol lebih besar terhadap pengaturan keamanan.
+
+![Cuplikan layar 2024-10-04 090333](https://github.com/user-attachments/assets/d399ec1c-b4bd-4732-b4c2-de4a33207161)
+
+
 - Windows : Lebih sering menjadi target malware dan virus, sehingga memerlukan perangkat lunak antivirus dan pembaruan rutin untuk menjaga keamanan.
+
+![Cuplikan layar 2024-10-04 090444](https://github.com/user-attachments/assets/488363d9-60ea-4e07-b917-3dc4e4f8f01b)
+
 
 # 4. Kompatibilitas Perangkat Lunak :
 - Linux : Memiliki sejumlah besar perangkat lunak open-source, tetapi mungkin tidak mendukung beberapa aplikasi komersial populer.
