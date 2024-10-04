@@ -1,9 +1,11 @@
 # Pengertian
 - Linux : Linux adalah sistem operasi berbasis Unix yang dirancang untuk memberikan pengguna PC OS gratis atau dengan biaya rendah. Sistem operasi ini terkenal karena stabilitas, keamanan, dan kenyamanannya, serta merupakan pilihan yang populer di kalangan pengembang dan server.
 
+![Cuplikan layar 2024-10-04 093553](https://github.com/user-attachments/assets/c3b45398-bb29-46a1-bb10-193e9b6789db)
+
 - Windows : Windows adalah sistem operasi yang dikembangkan oleh Microsoft. Versi pertama, Windows 1.0, dirilis pada tahun 1985. Windows dikenal luas karena kemudahan penggunaan dan antarmuka grafis yang ramah pengguna, menjadikannya pilihan utama bagi pengguna PC di seluruh dunia.
 
-
+![Cuplikan layar 2024-10-04 093812](https://github.com/user-attachments/assets/0ed915a4-728d-4361-83d2-4f4558d4864e)
 
 
 # Perbedaan antara Linux dan Windows
@@ -70,4 +72,5 @@
 
 - Windows : Meskipun stabil, terkadang dapat mengalami penurunan kinerja seiring waktu jika tidak dirawat dengan baik.
 
+![Cuplikan layar 2024-10-04 093255](https://github.com/user-attachments/assets/d09979ef-e8d8-42dd-9a8c-6bd45e050c71)
 
